@@ -18,7 +18,7 @@ h3{
 }
 
 h4{
-    color:#94d2bd;
+    color:white;
     margin-bottom:0px;
 }
 
@@ -34,7 +34,7 @@ h4{
 }
 .logo{
     border-radius: 50%;
-    background-color:#94d2bd;
+    background-color:#98df15;
     height:10vh;
     width:10vh;
     justify-content: space-around;
